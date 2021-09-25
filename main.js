@@ -1,4 +1,4 @@
-/*==================== CLOCK ====================*/
+/*==================== Relógio 1.0 ====================*/
 const hour = document.getElementById('clock-hour'),
       minutes = document.getElementById('clock-minutes'),
       seconds = document.getElementById('clock-seconds')
